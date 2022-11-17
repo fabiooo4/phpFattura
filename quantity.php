@@ -6,7 +6,7 @@
   </head>
     
       <body class="mainBg">
-        <h1>Il governo brama i tuoi soldi</h1>
+        <h1>Lo stato brama i tuoi soldi</h1>
         <div>
           <form action="prices.php" method="post">
             <label for="nElementi">Numero pagamenti da effettuare:</label>
